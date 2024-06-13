@@ -4,7 +4,7 @@ In this project, we implemented a HTTP server in C++ 98, designed to serve stati
 
 ![webserv](webserv.gif)
 
-## Getting started:
+## Getting started (linux):
 
 ```
 git clone https://github.com/tgrasset/webserv.git
