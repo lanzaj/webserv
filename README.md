@@ -1,7 +1,7 @@
 # Webserv: A HTTP Server in C++ 98
 
 In this project, we implemented a HTTP server in C++ 98, designed to serve static websites, handle GET, POST and DELETE methods, manage uploads from clients and provide CGI support for php and python scripts. Of course, the server is non-blocking and compatible with at least Google Chrome and Mozilla Firefox. 
-![This](http://www.josephlanza.fr) website is hosted by this project.
+[This](http://www.josephlanza.fr) website is hosted by this project.
 ![webserv](webserv.gif)
 
 ## Getting started (linux):
